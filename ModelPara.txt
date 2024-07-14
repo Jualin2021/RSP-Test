@@ -1,0 +1,7 @@
+NetworkIndex,4
+isTestSingleOp,False
+SingleOpIndex,-1
+UseMyOwn,True
+OneDimEsp,1e-07
+UEeps,1e-02
+UEmaxIter,500

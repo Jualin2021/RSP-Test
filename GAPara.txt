@@ -1,0 +1,11 @@
+UseMyOwn,True
+NetworkIndex,4
+isTestSingleOp,False
+SingleOpIndex,-1
+GANumPop,20
+GANumChild,18
+MaxGAIter,200
+GaMutationRate,0.01
+OneDimEsp,1e-07
+UEeps,0.01
+UEmaxIter,500
